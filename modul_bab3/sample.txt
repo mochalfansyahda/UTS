@@ -1,0 +1,9 @@
+Halo, ini adalah isi dari file sample.txt!
+
+Kelompok 1
+- Wisnu
+- Acep Rian Amrillah
+- Lilis Devi Maemunah
+
+#ProjectUTS
+#Terimakasih
